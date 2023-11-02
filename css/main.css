@@ -5,7 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Spectral:wght@300&display=swap');
 
 html {
-    background-color: lightgray;
+    background-color: rgb(241, 5, 5);
     font-family: 'Quicksand', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -19,7 +19,7 @@ html {
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: #dfdfdf;
     line-height: 2.5em;
 }
 
@@ -28,7 +28,7 @@ h1.page-header{
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     overflow: auto;
 }
 
@@ -43,13 +43,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color:rgb(6, 244, 253);
     text-decoration: none;
 }
 
 a:hover {
-    color: whitesmoke;
-    background-color: darkcyan;
+    color: rgb(250, 5, 5);
+    background-color: rgb(8, 186, 44);
     text-decoration: none;
 }
 
